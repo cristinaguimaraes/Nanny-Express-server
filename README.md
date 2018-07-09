@@ -39,3 +39,9 @@ npm run dev
 ## 4. You are ready to set up the front end!
 
 Navigate to [Nanny-Express-client](https://github.com/cristinaguimaraes/Nanny-Express-client) and follow the instructions in the README.md to finish the setup and run the application.
+
+# Tech stack
+
+### Built with
+- Koa
+- MongoDB
