@@ -23,13 +23,13 @@ Clone the `Nanny-Express-server code` locally. In a terminal, run:
   
 ## 2. Set up mongo
 
-## 3. Run the server
-
 In the terminal, run:
 
 ```
 mongod
 ```
+
+## 3. Run the server
 
 In a new tab in the terminal, run:
 ```
