@@ -11,7 +11,7 @@ Nanny Express, a trustworthy channel that connects parents and babysitters.
 
 ## Steps
   1. [Clone the repo](#1-clone-the-repo)
-  2. [Set up mongodb](#2-set-upmongodb)
+  2. [Set up mongoDB](#2-set-upmongodb)
   3. [Run the server](#3-run-the-server)
   4. [You are ready to set up the front end!](#4-you-are-ready-to-set-up-the-front-end)
   
@@ -21,7 +21,7 @@ Clone the `Nanny-Express-server code` locally. In a terminal, run:
 
   `git clone https://github.com/cristinaguimaraes/Nanny-Express-server.git`
   
-## 2. Set up mongo
+## 2. Set up mongoDB
 
 In the terminal, run:
 
