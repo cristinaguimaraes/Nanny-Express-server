@@ -11,7 +11,7 @@ Nanny Express, a trustworthy channel that connects parents and babysitters.
 
 ## Steps
   1. [Clone the repo](#1-clone-the-repo)
-  2. [Set up mongoDB](#2-set-upmongodb)
+  2. [Set up mongoDB](#2-set-up-mongoDB)
   3. [Run the server](#3-run-the-server)
   4. [You are ready to set up the front end!](#4-you-are-ready-to-set-up-the-front-end)
   
